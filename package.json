@@ -1,0 +1,9 @@
+{
+  "name": "home-hunt",
+  "description": "home-hunt",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnixo/home-hunt.git"
+  }
+}
